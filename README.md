@@ -1,2 +1,2 @@
 # meta
-Especially used for the wiki,  so klick on 'Wiki' in the top menue line
+Especially used for the [Wiki] (https://github.com/ttn-region-stuttgart/meta/wiki)
