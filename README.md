@@ -1,2 +1,2 @@
 # meta
-Especially used for the [Wiki](/ttn-region-stuttgart/meta/wiki)
+Especially used for the wiki
